@@ -15,8 +15,11 @@
 - **[SheetCombine Full Spreadsheet Workspace](https://sheetcombine.com/)** — Multi-tab editor with formula bar, cell colors, stats profiler, and `.xlsx` export.
 - **[Excel Online (No Login)](https://sheetcombine.com/excel-online/)** — Instant browser spreadsheet editor with formula bar, cell styling, and styled `.xlsx` export.
 - **[Blank New Sheet](https://sheetcombine.com/new-sheet/)** — Clean browser grid with instant demo dataset or paste-to-table import.
-- **[Google Sheets to Excel Converter](https://sheetcombine.com/google-sheets-to-excel/)** — Convert Google Sheets & Docs tables into styled native .xlsx workbooks with zero login.
-- **[Google Sheets to CSV Converter](https://sheetcombine.com/google-sheets-to-csv/)** — Instant UTF-8 and European semicolon CSV export without Google account sign-in. — Clean conversion across Google Sheets, CSV, and `.xlsx`.
+- **[Google Sheets to Excel Converter](https://sheetcombine.com/google-sheets-to-excel/)** — Clean conversion across Google Sheets, CSV, and `.xlsx`.
+- **[Google Sheets to CSV Converter](https://sheetcombine.com/google-sheets-to-csv/)** — Convert Google Sheets to RFC-4180 or European semicolon CSV with zero uploads.
+- **[CSV Cleaner Online](https://sheetcombine.com/csv-cleaner-online/)** — Trim phantom spaces, normalize text case, fix leading zeros on ZIP codes, and dedupe rows in browser RAM.
+- **[VLOOKUP Merge Online](https://sheetcombine.com/vlookup-merge-online/)** — Visual Left Join / VLOOKUP merge across two spreadsheets on matching IDs without writing Excel formulas.
+- **[Split CSV Columns Online](https://sheetcombine.com/split-csv-columns/)** — Separate full names into First/Last names, parse addresses, and unpack delimited strings without Excel.
 - **[XLS & ODS Online Viewer](https://sheetcombine.com/xls-online-viewer/)** — Open legacy `.xls` and LibreOffice `.ods` files without installing office suites.
 - **[Merge Multiple CSV Files Online](https://sheetcombine.com/merge-csv-files-online/)** — Stack monthly exports vertically with header alignment or Left Join by ID.
 - **[Merge & Join Workbook Sheets](https://sheetcombine.com/merge-sheets/)** — Combine workbook tabs cleanly in browser RAM.
