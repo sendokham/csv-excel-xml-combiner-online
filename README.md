@@ -32,6 +32,16 @@
 - **[Combine & Split Columns](https://sheetcombine.com/combine-columns/)** — Join names/IDs with custom separators or split delimited strings ([Split Columns](https://sheetcombine.com/split-columns/)).
 - **[CSV Cleaner & Leading Zero Preserver](https://sheetcombine.com/clean-csv/)** — Trim spaces, deduplicate rows ([Remove Duplicates](https://sheetcombine.com/remove-duplicates/)), [Sort & Filter](https://sheetcombine.com/sort-and-filter/), and [Transpose](https://sheetcombine.com/transpose-table/) without stripping `02134` ZIP codes.
 - **[CSV to SQL, TSV, Markdown & Excel](https://sheetcombine.com/csv-to-sql/)** — Export directly to [Markdown Tables](https://sheetcombine.com/markdown-table-generator/), [TSV](https://sheetcombine.com/csv-to-tsv/), [JSON](https://sheetcombine.com/csv-to-json/), [CSV -> Excel](https://sheetcombine.com/csv-to-excel/), and [Excel -> CSV](https://sheetcombine.com/excel-to-csv/).
+- **[YAML to JSON Converter](https://sheetcombine.com/yaml-to-json-online/)** — Convert multiline YAML to clean, formatted JSON online with zero server uploads.
+- **[JSON to YAML Converter](https://sheetcombine.com/json-to-yaml-online/)** — Convert JSON payloads into clean, human-readable 2-space indented YAML.
+- **[Base64 Encoder & Decoder](https://sheetcombine.com/base64-converter-online/)** — Encode and decode UTF-8 strings and files to Base64 and Base64URL in browser RAM.
+- **[Epoch Unix Timestamp Converter](https://sheetcombine.com/epoch-timestamp-converter/)** — Two-way Unix epoch converter (seconds and milliseconds) with live clock.
+- **[Pixels to REM Converter](https://sheetcombine.com/px-to-rem-converter/)** — Interactive PX to REM and REM to PX CSS calculator with Tailwind scale matrix.
+- **[URL Slug Generator](https://sheetcombine.com/url-slug-generator/)** — Clean SEO-friendly permalink slug generator with Unicode transliteration.
+- **[UUID v4 Batch Generator](https://sheetcombine.com/uuid-generator-online/)** — Cryptographically secure bulk UUID v4 and GUID generator (1 to 100 IDs).
+- **[TSV to JSON Converter](https://sheetcombine.com/tsv-to-json-online/)** — Parse clipboard tab-separated tables into formatted JSON objects with type inference.
+- **[Text Case Converter](https://sheetcombine.com/case-converter-online/)** — Convert text to camelCase, snake_case, kebab-case, Title Case, and UPPERCASE.
+- **[Word & Character Counter](https://sheetcombine.com/text-character-word-counter/)** — Live character, word, sentence, and reading time counter with social media limits.
 
 ---
 
