@@ -71,11 +71,23 @@
 
 ---
 
-## Outils Francais (Separateur Point-Virgule `;` pour Excel)
+## Outils Francais & International (ES / FR / DE / PT)
 
+- **[Convertir Google Sheets en Excel (.xlsx) (FR)](https://sheetcombine.com/fr/convertir-google-sheets-en-excel/)**
+- **[Convertir Google Sheets a Excel (.xlsx) (ES)](https://sheetcombine.com/es/convertir-google-sheets-a-excel/)**
+- **[Google Sheets in Excel (.xlsx) umwandeln (DE)](https://sheetcombine.com/de/google-sheets-in-excel-umwandeln/)**
+- **[Converter Google Sheets para Excel (.xlsx) (PT)](https://sheetcombine.com/pt/converter-google-sheets-para-excel/)**
 - **[Convertir XML en CSV et Excel (FR)](https://sheetcombine.com/fr/xml-en-csv/)**
 - **[Conversion JSON en Excel (.xlsx) (FR)](https://sheetcombine.com/fr/conversion-json-excel/)**
 - **[Convertisseur CSV en JSON (FR)](https://sheetcombine.com/fr/convertisseur-csv-json/)**
+
+---
+
+## Competitor Comparisons & Free Alternatives
+
+- **[Free Ablebits Alternative Online (Mac, Windows & Linux)](https://sheetcombine.com/ablebits-free-alternative/)**
+- **[Free Flourish Studio Alternative (1080p 60 FPS Bar Chart Race + Audio Muxer)](https://sheetcombine.com/flourish-studio-free-alternative/)**
+- **[Modern ConvertCSV Alternative (13 Formats & Live Grid)](https://sheetcombine.com/convertcsv-alternative/)**
 
 ---
 
